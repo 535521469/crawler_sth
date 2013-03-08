@@ -6,6 +6,8 @@ Created on 2013-3-1
 from scrapy.cmdline import execute
 from scrapy.settings import CrawlerSettings
 
+
+
 # CrawlerSettings: <CrawlerSettings module='scrapy.dmoz.settings'>
 if __name__ == '__main__':
     
