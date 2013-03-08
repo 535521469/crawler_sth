@@ -140,7 +140,5 @@ class Xzqhdm_Spider(Tjbz_Spider):
         
         return items
         
-#        print response.
-#        print response.body.decode('gb2312')
         
         

@@ -4,11 +4,4 @@
 # See documentation in:
 # http://doc.scrapy.org/topics/items.html
 
-from scrapy.item import Field, Item
-
-class TjyqhdmItem(Item):
-    
-    label = Field()
-    code = Field()
-    
 

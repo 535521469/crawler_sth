@@ -10,5 +10,6 @@ BOT_NAME = 'nbsc'
 SPIDER_MODULES = ['scrapy.nbsc.spiders.tjyqhdm.tjbz_spider']
 #NEWSPIDER_MODULE = 'scrapy.statsgov.spiders'
 
+LOG_LEVEL=u"INFO"
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'tutorial (+http://www.yourdomain.com)'
