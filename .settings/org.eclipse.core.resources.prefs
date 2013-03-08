@@ -1,5 +1,7 @@
-#Fri Mar 08 11:25:40 CST 2013
+#Fri Mar 08 12:51:38 CST 2013
 eclipse.preferences.version=1
-encoding//scrapy/nbsc/spiders/xzqhdm/atest.py=utf-8
+encoding//scrapy/nbsc/spiders/tjbz_spider.py=utf-8
+encoding//scrapy/nbsc/spiders/tjyqhdm/tjbz_spider.py=utf-8
+encoding//scrapy/nbsc/spiders/xzqhdm/start.py=utf-8
 encoding//scrapy/nbsc/spiders/xzqhdm/tjbz_spider.py=utf-8
 encoding//scrapy/nbsc/spiders/xzqhdm/xzqhdm_spider.py=utf-8
