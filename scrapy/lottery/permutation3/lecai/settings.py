@@ -7,7 +7,7 @@
 #
 BOT_NAME = 'lottery'
 
-SPIDER_MODULES = ['scrapy.lottery.permutation3.permutation3spider']
+SPIDER_MODULES = ['scrapy.lottery.permutation3.lecai.permutation3spider']
 #NEWSPIDER_MODULE = 'scrapy.statsgov.spiders'
 
 LOG_LEVEL=u"INFO"
