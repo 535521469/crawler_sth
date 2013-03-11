@@ -33,3 +33,12 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+artwork/
+.settings/
+debian/
+dirbot/
+docs/
+extras/
+scrapyd/
+sep/
