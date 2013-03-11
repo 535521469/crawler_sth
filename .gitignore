@@ -34,11 +34,11 @@ nosetests.xml
 .project
 .pydevproject
 
-artwork/
-.settings/
-debian/
-dirbot/
-docs/
-extras/
-scrapyd/
-sep/
+crawler_sth/artwork/
+crawler_sth/.settings/
+crawler_sth/debian/
+crawler_sth/dirbot/
+crawler_sth/docs/
+crawler_sth/extras/
+crawler_sth/scrapyd/
+crawler_sth/sep/
